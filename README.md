@@ -11,3 +11,7 @@ pip install time
 pip install sys
 pip install threading
 pip install smtplib
+
+
+
+Ну а кому лень это все делать я уже все сделал за вас вот вам exe файл его просто запускаете и делаете что вам надо
